@@ -139,7 +139,7 @@ Target vector length = 10155
 The model is trained with:
 
 ```
-epochs = 25
+epochs = 50
 validation_split = 0.2
 ```
 
